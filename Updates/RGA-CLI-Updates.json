@@ -12,7 +12,7 @@
         {
             "URL": "https://github.com/GPUOpen-Tools/RGA/releases",
             "Description": "The Radeon GPU Analyzer Releases page on Github."
-        }
+        },
         {
             "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.1/RGA-2.0.1-ReleaseNotes.pdf",
             "Description": "Release Notes."
