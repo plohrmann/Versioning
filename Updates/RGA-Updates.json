@@ -2,43 +2,43 @@
     "SchemaVersion": "1.5",
     "ReleaseVersion" : {
         "Major" : 2,
-        "Minor" : 0,
-        "Patch" : 2,
+        "Minor" : 3,
+        "Patch" : 0,
         "Build" : 0
     },
     "ReleaseDate": "2018-11-14",
-    "ReleaseDescription": "Radeon GPU Analyzer 2.0.2",
+    "ReleaseDescription": "Radeon GPU Analyzer 2.3.0",
     "InfoPageLinks": [
         {
             "URL": "https://github.com/GPUOpen-Tools/RGA/releases",
             "Description": "The Radeon GPU Analyzer Releases page on Github."
         },
         {
-            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.2/RGA-2.0.2-ReleaseNotes.pdf",
+            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.3.0/RGA-2.3.0-ReleaseNotes.pdf",
             "Description": "Release Notes."
         }
     ],
     "DownloadLinks": [
         {
-            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.2/rga-windows-x86-2.0.2-cli-only.zip",
+            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.3.0/rga-windows-x86-2.3.0-cli-only.zip",
             "TargetPlatforms": [ "Windows" ],
             "PackageType" : "ZIP",
             "ReleaseType" : "GA"
         },
         {
-            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.2/rga-windows-2.0.2.msi",
+            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.3.0/rga-windows-2.3.0.msi",
             "TargetPlatforms": [ "Windows" ],
             "PackageType" : "MSI",
             "ReleaseType" : "GA"
         },
         {
-            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.2/rga-windows-x64-2.0.2.zip",
+            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.3.0/rga-windows-x64-2.3.0.zip",
             "TargetPlatforms": [ "Windows" ],
             "PackageType" : "ZIP",
             "ReleaseType" : "GA"
         },
         {
-            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.0.2/rga-linux-2.0.2.tgz",
+            "URL": "https://github.com/GPUOpen-Tools/RGA/releases/download/2.3.0/rga-linux-2.3.0.tgz",
             "TargetPlatforms": [ "Ubuntu" ],
             "PackageType" : "TAR",
             "ReleaseType" : "GA"
